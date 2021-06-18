@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A small JS app allowing users to keep track of their to-do lists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSHEPO-CLOUD/todo-app.git"
+  },
+  "author": "David Tshepo, Onur Surmeli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TSHEPO-CLOUD/todo-app/issues"
+  },
+  "homepage": "https://github.com/TSHEPO-CLOUD/todo-app#readme"
+}
