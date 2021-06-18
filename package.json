@@ -2,9 +2,11 @@
   "name": "todo-app",
   "version": "1.0.0",
   "description": "A small JS app allowing users to keep track of their to-do lists.",
-  "main": "index.js",
+  "main": "./dist/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --mode development --open --watch",
+    "build": "webpack -- --mode=development --watch"
   },
   "repository": {
     "type": "git",
