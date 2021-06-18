@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/TSHEPO-CLOUD/todo-app/issues"
   },
-  "homepage": "https://github.com/TSHEPO-CLOUD/todo-app#readme"
+  "homepage": "https://github.com/TSHEPO-CLOUD/todo-app#readme",
+  "devDependencies": {
+    "webpack": "^5.39.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
